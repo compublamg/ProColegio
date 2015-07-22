@@ -5,6 +5,7 @@
 # to each configured DirectoryIndex file (e.g. index.php, index.html, index.pl).
 DirectoryIndex app.php
 
+
 # uncomment the following line if you install assets as symlinks
 # or run into problems when compiling LESS/Sass/CoffeScript assets
 #
